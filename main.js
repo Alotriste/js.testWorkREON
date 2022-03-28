@@ -92,7 +92,7 @@ function postsMainBodyFunction(
                 <h3>${post.title}</h3>
             </div>
             <div class="main-content__posts__post--remove-btn">
-                <img src="/img/btn-remove.svg" alt="remove">
+                <img src="img/btn-remove.svg" alt="remove">
             </div>
         </div>                    
         `;
